@@ -1,1 +1,8 @@
 bedrock_server.exe file.
+Eula=true
+unzip /path/to/ngrok.zip
+ngrok authtoken 23OCONXLplmvU8LOZPulhPEdTHr_64oXCkzmUhScrJsbQ
+Xzic
+ngrok help
+ngrok http 80
+
